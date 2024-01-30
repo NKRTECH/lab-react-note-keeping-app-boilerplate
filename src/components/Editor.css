@@ -27,15 +27,14 @@ h3{
 }
 
 .output-text{
-    box-shadow: 10px 10px 5px lavender;
     border-radius: 5px;
-    background-color: gray;
+    background-color: green;
     width: 500px;
     height: 500px;
     padding: 10px;
     overflow-wrap: break-word;
     padding: 10px;
-    color: white;
+    color: aqua;
     font-size: 20px;
 
 }
